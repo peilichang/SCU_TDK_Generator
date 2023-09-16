@@ -23,5 +23,8 @@
 > |   Ubersuggest 爬蟲    |  爬取長尾關鍵字推薦清單   |   程式碼   |   [🔗](https://github.com/peilichang/SCU_TDK_Generator/Ubersuggest_keyword.ipynb)    |
 > |   Google Search SERP 爬蟲    |   爬取各關鍵字的前十頁搜尋結果    |   程式碼   |  [🔗](https://github.com/peilichang/SCU_TDK_Generator/Google_search_content.ipynb)     |
 > |   CKIP 斷詞處理    |   將 Content 的內容進行斷詞    |   程式碼   |  [🔗](https://github.com/peilichang/SCU_TDK_Generator/CKIP.ipynb)     |
+> |   生成模型    |   TDK 生成模型的串接程式碼    |   程式碼   |  [🔗]([https://github.com/peilichang/SCU_TDK_Generator/CKIP.ipynb](https://github.com/Yasmine-Cheng/TDK_generator/blob/GT_version/main.py))     |
 > |   PPT    |   專題發表時使用之簡報    |   簡報   |  [🔗](https://github.com/peilichang/SCU_TDK_Generator/111巨量資料專題實作成果簡報－TDK生成器.pdf)|
 > |   專題介紹   |   111-1 大四專題｜成果報告－TDK生成器    |   影片   |  [🔗](https://www.youtube.com/watch?v=SZv_pXkzJBU)|
+
+
