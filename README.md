@@ -1,6 +1,6 @@
 # SCU_TDK_Generator
 
-> #### 專案目的：為電商商家建立 TDK 生成器，節省上架商品時花費的時間及人力成本
+> #### 專題目的：為電商商家建立 TDK 生成器，節省上架商品時花費的時間及人力成本
 
 ##
 ### 專題研究步驟
@@ -17,11 +17,11 @@
    - Description：採用 GPT2 模型針對特定商品生成對應文本
    - Keyword：以 Keyword 分類模型結果推薦該類別 KEI 值前五名的關鍵詞
 
-## 迷你黑客松結果呈現
+## 專題結果呈現
 > |   項目   |     說明    |   項目   |       連結        | 
 > | :------: | :--------: | :--------: |   :---------:   |
 > |   Ubersuggest 爬蟲    |  爬取長尾關鍵字推薦清單   |   程式碼   |   [🔗](https://github.com/peilichang/SCU_TDK_Generator/Ubersuggest_keyword.ipynb)    |
 > |   Google Search SERP 爬蟲    |   爬取各關鍵字的前十頁搜尋結果    |   程式碼   |  [🔗](https://github.com/peilichang/SCU_TDK_Generator/Google_search_content.ipynb)     |
 > |   CKIP 斷詞處理    |   將 Content 的內容進行斷詞    |   程式碼   |  [🔗](https://github.com/peilichang/SCU_TDK_Generator/CKIP.ipynb)     |
-> |   PPT    |   專題發表時使用之簡報    |   簡報   |  [🔗](https://github.com/peilichang/SCU_TDK_Generator/111巨量資料專題實作成果簡報－TDK 生成器.pdf)|
+> |   PPT    |   專題發表時使用之簡報    |   簡報   |  [🔗](https://github.com/peilichang/SCU_TDK_Generator/111巨量資料專題實作成果簡報－TDK生成器.pdf)|
 > |   專題介紹   |   111-1 大四專題｜成果報告－TDK生成器    |   影片   |  [🔗](https://www.youtube.com/watch?v=SZv_pXkzJBU)|
